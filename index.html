@@ -3,30 +3,69 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Học trực tuyến CNTT</title>
-    <link rel="stylesheet" href="style.css">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial;
+        }
+
+        .menu {
+            width: 200px;
+            height: 100vh;
+            background: #ddd;
+            float: left;
+        }
+
+        .menu h3 {
+            background: #999;
+            margin: 0;
+            padding: 10px;
+            color: white;
+        }
+
+        .menu a {
+            display: block;
+            padding: 10px;
+            text-decoration: none;
+            color: black;
+        }
+
+        .menu a:hover {
+            background: #bbb;
+        }
+
+        .content {
+            margin-left: 220px;
+            padding: 20px;
+        }
+    </style>
+
 </head>
 
 <body>
-    <header>
-        <nav>
-            <a href="#">Trang chủ</a>
-            <a href="#">Khóa học</a>
-            <a href="#">Diễn đàn</a>
-            <a href="#">Liên hệ</a>
-        </nav>
-    </header>
 
-    <main>
+    <div class="menu">
+        <h3>Trang chủ</h3>
+        <a href="#">Khóa học</a>
+        <a href="#">Diễn đàn</a>
+        <a href="#">Liên hệ</a>
+    </div>
+
+    <div class="content">
         <h1>Học trực tuyến Công nghệ thông tin</h1>
-        <h2>Các khóa học:</h2>
+
+        <h3>Các khóa học:</h3>
+
         <ol>
             <li>Lập trình cơ bản</li>
             <li>Cấu trúc dữ liệu</li>
             <li>Thiết kế web</li>
         </ol>
-    </main>
+
+    </div>
+
 </body>
 
 </html>
