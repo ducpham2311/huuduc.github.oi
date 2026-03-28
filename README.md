@@ -1,12 +1,17 @@
 AI: deepseek
 
-lệng dùng: thêm css vào dòng code trên và không can thiệp thay đổi html
+lệng dùng: 
+
+
+
+thêm css vào dòng code trên và không can thiệp thay đổi html
 
 kết quả
 
+
+
 <!DOCTYPE html>
 <html lang="vi">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
