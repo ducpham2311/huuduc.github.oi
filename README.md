@@ -2,6 +2,7 @@ AI: deepseek
 
 lệng dùng: 
 
+![z7655493594862_e7aed7563980af318c7e077be2e2a3ca](https://github.com/user-attachments/assets/ddcb318e-2b20-4b53-a1ac-7ec8ece3cf35)
 
 
 thêm css vào dòng code trên và không can thiệp thay đổi html
